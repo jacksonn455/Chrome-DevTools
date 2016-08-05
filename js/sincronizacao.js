@@ -1,10 +1,8 @@
 (function(){
 	"use strict"
 
-	var usuario = "artur.adam@caelum.com";
-
 	$.getJSON(
-		"https://ceep.herokuapp.com/cartoes/carregar?callback=?",
+		"https://ceep.herokuapp.com/cartoes/carregar",
 		{usuario: usuario},
 		function(res){
 			console.log(res.cartoes.length + " carregados em " + res.usuario);

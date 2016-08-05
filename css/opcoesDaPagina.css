@@ -16,7 +16,7 @@
 }
 
 .opcoesDaPagina-botao {
-	padding: .5em;
+	padding: 2em;
 	max-width: 4.5em;
 	border: none;
 	background: rgba(0,0,0,.25);
@@ -26,4 +26,5 @@
 .opcoesDaPagina-opcao#busca {
 	border: none;
 	padding: .2em;
+	width: 44px;
 }

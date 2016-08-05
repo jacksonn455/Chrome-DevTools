@@ -3,7 +3,7 @@
 
 	$(".novoCartao").submit(function(event){
 
-		var campoConteudo = $(".novoCartao-conteudo");
+		var campoConteudo = $(".novoCartao-contudo");
 
 		var conteudo = campoConteudo.val().trim()
 										  .replace(/\n/g, "<br>")
