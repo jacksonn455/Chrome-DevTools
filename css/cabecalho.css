@@ -1,14 +1,13 @@
 .cabecalho {
 	font-size: 1rem;
-	padding-top: 0em;
-	padding-bottom: 0em;
+	padding-top: .5eme;
+	padding-bottom: .5eme;
 	text-align: center;
 	display: fex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: center;
 	align-content: center;
-	margin-top: 24px;
 }
 
 .cabecalho-logo {
