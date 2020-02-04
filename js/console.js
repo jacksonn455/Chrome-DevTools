@@ -18,6 +18,6 @@ console.table([
 ]);
 
 console.table([
-    {nome: "alura"},
-    {nome: "Jackson"}
-])
+    {nome:"Alura", num:35},
+    {nome:"Deco", num: 42}
+]);
