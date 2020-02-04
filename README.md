@@ -8,4 +8,4 @@ Chrome DevTools: analise, inspecione e depure suas páginas Web
 - Persistencia, Cookies e Cache
 - Device Mode
 --------------------
- ![]()
+ ![](https://github.com/jacksonn455/Chrome-DevTools/blob/master/img/img.png)
