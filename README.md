@@ -7,5 +7,7 @@ Chrome DevTools: analise, inspecione e depure suas páginas Web
 - Analisando a performance
 - Persistencia, Cookies e Cache
 - Device Mode
+- Acesso em:  https://jacksonn455.github.io/Chrome-DevTools/
+
 --------------------
  ![](https://github.com/jacksonn455/Chrome-DevTools/blob/master/img/img.png)
